@@ -13,4 +13,27 @@ This research map provides an overview of my work within the field of Precision 
 </div>
 
 
+<div style="overflow: auto; max-width: 50%; height: 300px; margin: 0 auto;">
+  <div id="mount" style="height: 50%; width: 100%;"></div>
+</div>
+
+<script src="https://unpkg.com/xmind-embed-viewer/dist/umd/xmind-embed-viewer.js"></script>
+<script>
+  const init = async () => {
+    const res = await fetch('{{ site.baseurl }}/assets/img/PrecisionAgriculture.xmind');
+    const viewer = new XMindEmbedViewer({
+      el: '#mount',
+      file: await res.arrayBuffer(),
+      region: 'global',
+      styles: {
+        'height': '300px',  // adjust height here
+        'width': '50%'
+      }
+    });
+    viewer.addEventListener('map-ready', () => console.log('Map is ready'));
+  }
+  init();
+</script>
+
+
 
