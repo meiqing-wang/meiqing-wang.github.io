@@ -1,0 +1,3 @@
+[submodule "assets/js/xmind-embed-viewer"]
+	path = assets/js/xmind-embed-viewer
+	url = https://github.com/xmindltd/xmind-embed-viewer
