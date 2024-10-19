@@ -21,7 +21,7 @@ This research map provides an overview of my work within the field of Precision 
 <script src="xmind-embed-viewer.js"></script>
 <script>
   const init = async () => {
-    const res = await fetch('/assets/img/research_map.xmind');  // Adjust the path to your xmind file if necessary
+    const res = await fetch('{{ site.baseurl }}/assets/img/PrecisionAgriculture.xmind');  // Adjust the path to your xmind file if necessary
     const viewer = new XMindEmbedViewer({
       el: '#mount',
       file: await res.arrayBuffer(),
