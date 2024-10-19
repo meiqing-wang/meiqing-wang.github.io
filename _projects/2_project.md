@@ -21,7 +21,7 @@ The method leverages the capabilities of a state-of-the-art Transformer model, [
  We collected data from 6 dairy cows (1 Holstein Friesian and 5 Brown Swiss) across 3 periods (period 1: November 2022; period 2: May 2023; period 3: June 2023). Each period involved 2 cows, and each cow was individually kept in her designated stall in a tie-stall barn. For each cow, 2 2D cameras (DAHUA, model: DH-SD1A404XBGNR, 2.8 mm–12 mm lens) were installed: one on the side and one above, to capture abdominal movements related to respiration. The cameras were linked to a DAHUA network video recorder (NVR, model: DHINVR4216–16P-4KS2/L). The positions of the cameras and the infrastructure of the data collection system are illustrated in the picture below. During the data collection periods, each cow wore an Embla XactTrace Respiration Belt (product reference: Single Use Cut-To-Fit Universal Respiratory Inductance Plethysmography Belt) and a recording device (Embletta® MPR PG) to collect the RR measurement serving as the ground truth (GT) for the computer vision method. 
 
  <div style="text-align: center;">
-   <img src="{{ site.baseurl }}/assets/img/project2-1.jpg" alt="Data Collection Setup" style="max-width: 100%; height: auto;">
+   <img src="{{ site.baseurl }}/assets/img/Project2-1.jpg" alt="Data Collection Setup" style="max-width: 100%; height: auto;">
 </div>
 
 # <span style="font-size: 20px;">Results and Demos</span>
