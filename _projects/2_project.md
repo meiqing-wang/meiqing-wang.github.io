@@ -26,7 +26,7 @@ The method leverages the capabilities of a state-of-the-art Transformer model, [
 
 # <span style="font-size: 20px;">Results and Demos</span>
 
- Compared with the ground truth obtained from the respiratory belt, the method achieved an Mean Absolute Error (MAE) of 2.58 bpm,  root mean squared error (RMSE) of 3.52 bpm, root mean squared prediction error (RMSPE) of 15.03%, and a Pearson Correlation of 0.86, averaged across the 6 test sets. When compared with the conventional method, which involves multiple processing modules, the end-toend method showed better performance in terms of MAE, RMSE, and RMSPE. The videos below demonstrate how the model monitors the cow's respiration rate continuously from RGB videos, especially when the cow has little movement. You can find the paper about this work at this [link](https://doi.org/10.3168/jds.2023-24601).
+ Compared with the ground truth obtained from the respiratory belt, the method achieved an Mean Absolute Error (MAE) of 2.58 breaths/minute (bpm),  root mean squared error (RMSE) of 3.52 bpm, root mean squared prediction error (RMSPE) of 15.03%, and a Pearson Correlation of 0.86, averaged across the 6 test sets. When compared with the conventional method, which involves multiple processing modules, the end-toend method showed better performance in terms of MAE, RMSE, and RMSPE. The videos below demonstrate how the model monitors the cow's respiration rate continuously from RGB videos, especially when the cow has little movement. You can find the paper about this work at this [link](https://doi.org/10.3168/jds.2023-24601).
 
 
 <div style="text-align: center;">
