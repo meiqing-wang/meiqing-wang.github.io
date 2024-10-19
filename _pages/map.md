@@ -9,7 +9,7 @@ nav_order: 3
 This research map provides an overview of my work within the field of Precision Agriculture, mainly focusing on Precision Livestock Farming and Precision Crop Farming. The map outlines my leading and participating roles in various projects involving pigs, dairy cows, and crops, where I utilize advanced technologies such as computer vision and machine learning. Each project is linked to corresponding academic outputs, including conference presentations and journal papers, reflecting the interdisciplinary nature of my research. 
 
 <!-- Embed the XMind Viewer -->
-<div style="max-width: 1280px">
+<div style="max-width: 100%; height: 600px;"">
   <div id="mount"></div> <!-- The xmind map will be embedded here -->
 </div>
 
@@ -24,8 +24,9 @@ This research map provides an overview of my work within the field of Precision 
       file: await res.arrayBuffer(),
       region: 'global',
       styles: {
-        'height': '500px',
-        'width': '100%'
+        'height': '600px',  // Adjust height if needed
+        'width': '100%',    // Full width for better visibility
+        'overflow': 'auto'
       }
     });
 
