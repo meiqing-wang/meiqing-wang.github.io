@@ -59,12 +59,13 @@ layout: default
     <div class="clearfix">{{ content }}</div>
 
     <!-- News Section -->
+    <h2>
+      <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
+    </h2>  <!-- Moved the "News" title outside of the scrollable container -->
+    
     <div class="scrollable-news">  <!-- Added scrollable container here -->
       {% if page.news and site.announcements.enabled %}
-        <h2>
-          <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
-        </h2>
-        {% include news.liquid limit=false %}  <!-- Removed the limit -->
+        {% include news.liquid limit=false %}
       {% endif %}
     </div>
 
