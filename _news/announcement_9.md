@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper was accepted by **Animal**. Check the paper in this [link]{https://doi.org/10.1016/j.animal.2025.101603}.
+One paper was accepted by **Animal**. Check the paper in this [link](https://doi.org/10.1016/j.animal.2025.101603).
