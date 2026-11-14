@@ -2,7 +2,7 @@
 title: "Map"
 permalink: /map/
 layout: page
-nav: true
+nav: false
 nav_order: 3
 ---
 
@@ -11,4 +11,3 @@ This research map provides an overview of my work within the field of Precision 
 <div style="text-align: center;">
   <img src="{{ site.baseurl }}/assets/img/PrecisionAgriculture.svg" alt="Mind Map" style="max-width: 100%; height: auto;">
 </div>
-

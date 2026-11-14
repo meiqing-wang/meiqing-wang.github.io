@@ -23,7 +23,9 @@ nav_order: 5
 
 Thesis student
 
-- Master’s student: Boris Zandona, Department of Environmental Systems Sciences, ETH Zurich (Daily supervisor, graduated spring 2024,now Ph.D student in SLU)
+- Master’s student: Boris Zandona, Department of Environmental Systems Sciences, ETH Zurich (Daily supervisor, graduated spring 2024, now a Ph.D. student at SLU)
+- Master’s student: Madhivadhani Sundaravel, School of Biosystems and Food Engineering, University College Dublin (Daily supervisor, graduated summer 2026)
+- Master’s student: Somasundaram Selvam, School of Biosystems and Food Engineering, University College Dublin (Daily supervisor, graduated summer 2026)
 
 Training Course
 
@@ -36,11 +38,11 @@ Training Course
 Teaching assistant 
 
 - Master students: I0W21A Internship bioscience engineering, KU Leuven, Spring Semester of 2019 and 2020
+- Master’s students: Precision Livestock Management (BSEN40510), University College Dublin (Teaching assistant; delivered lectures)
 
 Excursion leader
 
 -  Undergraduate students: barn excursion, ETH Zurich, March 24, 2023 & April 12, 2024
-
 
 
 
