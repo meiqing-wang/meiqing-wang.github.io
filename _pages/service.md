@@ -13,7 +13,7 @@ nav_order: 5
 - Journal of the ASABE
 - Animals
 - Sensors
-- IEEE Transactions on Systems, Man and Cybernetics
+- IEEE Transactions on Systems, Man and Cybernetics, etc.
 
 # <span style="font-size: 22px;">Conference Session Chair</span>
 
@@ -23,14 +23,14 @@ nav_order: 5
 
 Thesis student
 
-- Master’s student: Boris Zandona, Department of Environmental Systems Sciences, ETH Zurich (Daily supervisor, graduated spring 2024, now a Ph.D. student at SLU)
-- Master’s student: Madhivadhani Sundaravel, School of Biosystems and Food Engineering, University College Dublin (Daily supervisor, graduated summer 2026)
-- Master’s student: Somasundaram Selvam, School of Biosystems and Food Engineering, University College Dublin (Daily supervisor, graduated summer 2026)
+- Master student: Boris Zandona, Department of Environmental Systems Sciences, ETH Zurich (Daily supervisor, graduated spring 2024, now a Ph.D. student at SLU)
+- Master student: Madhivadhani Sundaravel, School of Biosystems and Food Engineering, University College Dublin (Daily supervisor, graduated summer 2026)
+- Master student: Somasundaram Selvam, School of Biosystems and Food Engineering, University College Dublin (Daily supervisor, graduated summer 2026)
 
 Training Course
 
 - PhD student: Sara Mondini, University of Milan (Daily supervisor; completed training from May to August of 2024)
-- Master’s student: Vivienne Magdalena Alexandra Hanke, Department of Environmental Systems Sciences, ETH Zurich (Daily supervisor, completed training from June to September of 2024)
+- Master student: Vivienne Magdalena Alexandra Hanke, Department of Environmental Systems Sciences, ETH Zurich (Daily supervisor, completed training from June to September of 2024)
 
 
 # <span style="font-size: 22px;">Teaching Experience</span>
@@ -38,11 +38,9 @@ Training Course
 Teaching assistant 
 
 - Master students: I0W21A Internship bioscience engineering, KU Leuven, Spring Semester of 2019 and 2020
-- Master’s students: Precision Livestock Management (BSEN40510), University College Dublin (Teaching assistant; delivered lectures)
+- Master students: Precision Livestock Management (BSEN40510), University College Dublin (Teaching assistant; delivered lectures)
 
 Excursion leader
 
 -  Undergraduate students: barn excursion, ETH Zurich, March 24, 2023 & April 12, 2024
-
-
 

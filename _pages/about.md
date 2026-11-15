@@ -9,9 +9,9 @@ profile:
   align: top
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  position: "Postdoctoral researcher"
-  office: "Agricultural Building, University College Dublin, Stillorgan Rd, Belfield, Dublin 4, Ireland"
-  email: "meiqing.wang@ucd.ie"
+  position: "Assistant Professor"
+  office: "Building C, Harbin Institute of Technology, Shenzhen University Town, Xili, Nanshan District, Shenzhen, Guangdong 518055, China"
+  email: "wangmeiqing@hit.edu.cn"
   #github: "https://github.com/yourusername"
   linkedin: "https://www.linkedin.com/in/meiqing-wang-4b99241a6/"
   scholar: "https://scholar.google.com/citations?user=Y9kV40MAAAAJ&hl=en&oi=ao"  # Add Google Scholar URL
@@ -33,7 +33,6 @@ Hi there! I am an Assistant Professor at the School of Future Design, Harbin Ins
 I received my Ph.D. in Bioscience Engineering from KU Leuven under the supervision of Prof. [Tomas Norton](https://scholar.google.com/citations?user=6LuDd1oAAAAJ&hl=en&oi=ao) and Prof. [Jean-Loup Rault](https://www.vetmeduni.ac.at/en/animal-welfare-science/about-us/head). Before joining HIT Shenzhen, I conducted postdoctoral research at ETH Zurich in Switzerland and University College Dublin in Ireland. I also hold an M.Sc. in Control Science and Engineering from Beihang University and a B.Sc. in Information and Computing Science from Minzu University of China.
 
 I would be pleased to explore collaborations in sustainable agriculture and related environmental topics. I also welcome inquiries from self-motivated undergraduate interns interested in computer vision and robotics applications.
-
 
 
 
