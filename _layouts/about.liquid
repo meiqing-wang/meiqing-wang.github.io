@@ -3,10 +3,10 @@ layout: default
 ---
 <div class="post">
   <article>
-    <!-- Flexbox container for profile image and info -->
-    <div class="profile-container">
+    <!-- Two-column profile header -->
+    <div class="about-profile-header">
       <!-- Profile Image Section -->
-      <div class="profile-image">
+      <div class="about-profile-image">
         {% if page.profile.image %}
           {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
           {% if page.profile.image_circular %}
@@ -23,7 +23,7 @@ layout: default
       </div>
 
       <!-- Profile Info Section (Name, Affiliations, etc.) -->
-      <div class="profile-info">
+      <div class="about-profile-info">
         <h1 class="post-title">
           {% if site.title == 'blank' %}
             <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
@@ -86,6 +86,54 @@ layout: default
 
 <!-- Add this CSS to make the news section scrollable -->
 <style>
+  .about-profile-header {
+    display: grid;
+    grid-template-columns: minmax(200px, 260px) minmax(0, 1fr);
+    gap: 2.5rem;
+    align-items: start;
+    margin-bottom: 2rem;
+  }
+
+  .about-profile-image {
+    width: 100%;
+  }
+
+  .about-profile-image figure {
+    margin: 0;
+  }
+
+  .about-profile-image img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+
+  .about-profile-info {
+    min-width: 0;
+    padding-top: 0.25rem;
+  }
+
+  .about-profile-info .post-title {
+    margin-top: 0;
+    margin-bottom: 1.25rem;
+  }
+
+  .about-profile-info .desc {
+    margin: 0.4rem 0;
+    line-height: 1.5;
+  }
+
+  @media (max-width: 767.98px) {
+    .about-profile-header {
+      grid-template-columns: 1fr;
+      gap: 1.5rem;
+    }
+
+    .about-profile-image {
+      max-width: 220px;
+    }
+  }
+
   .scrollable-news {
     max-height: 250px;  /* Set the maximum height for the news section */
     overflow-y: scroll; /* Enable vertical scrolling */
